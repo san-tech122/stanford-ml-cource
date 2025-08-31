@@ -25,6 +25,6 @@
 
 ---
 
-##Superwised learning
+## superwised learning
 - refers to algorithms that learn x to y or input to output mappings.
 -  The key characteristic of supervised learning is that you give your learning algorithm examples to learn from.
