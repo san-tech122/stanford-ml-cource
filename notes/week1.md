@@ -28,3 +28,22 @@
 ## superwised learning
 - refers to algorithms that learn x to y or input to output mappings.
 -  The key characteristic of supervised learning is that you give your learning algorithm examples to learn from.
+for example
+
+
+Supervised learning refers to algorithms that learn input → output mappings from labeled data.  
+
+## Examples
+
+| Input (X)         | Output (Y)               | Application          |
+|-------------------|--------------------------|----------------------|
+| email             | spam? (0/1)             | spam filtering       |
+| audio             | text transcripts        | speech recognition   |
+| English           | Spanish                 | machine translation  |
+| ad, user info     | click? (0/1)            | online advertising   |
+| image, radar info | position of other cars  | self-driving cars    |
+| image of phone    | defect? (0/1)           | visual inspection    |
+
+## Key Point
+- **Supervised learning** = learning from labeled examples (X → Y).  
+- 99% of current ML economic value is from supervised learning applications.
