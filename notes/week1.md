@@ -22,3 +22,9 @@
 ### Extra Notes
 - Machine Learning = field of study that gives computers the ability to learn without being explicitly programmed.  
 - Arthur Samuel (1950s): Defined ML and created a checkers-playing program.
+
+---
+
+##Superwised learning
+- refers to algorithms that learn x to y or input to output mappings.
+-  The key characteristic of supervised learning is that you give your learning algorithm examples to learn from.
