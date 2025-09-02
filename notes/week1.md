@@ -85,4 +85,4 @@ Supervised learning = learning from labeled examples (given the “right answers
 ```mermaid
 flowchart TD
     A[Do you want to predict a number?] -->|Yes| B[Regression]
-    A -->|No, a category/label| C[Classification]
+    A -->|No, a category/label| C[Classification].
