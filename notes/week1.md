@@ -80,9 +80,3 @@ Supervised learning = learning from labeled examples (given the “right answers
 
 ---
 
-## Simple “Which one is it?” Flow
-
-```mermaid
-flowchart TD
-    A[Do you want to predict a number?] -->|Yes| B[Regression]
-    A -->|No, a category/label| C[Classification].
