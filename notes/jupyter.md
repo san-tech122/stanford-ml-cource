@@ -45,3 +45,30 @@ Welcome to your journey into machine learning! This guide will help you understa
 Optional Labs (Run Only) ██████████████████ 60%
 
 Practice Labs (Code Yourself) ███████████ 40%
+
+
+---
+
+## 📝 Inside a Jupyter Notebook
+
+| Cell Type       | Description                     | Action                       |
+|-----------------|----------------------------------|------------------------------|
+| 📝 Markdown Cell| Text that explains the code      | Press `Shift + Enter`        |
+| 💻 Code Cell    | Python code you can run/edit     | Press `Shift + Enter`        |
+
+> 🔄 Try editing the code and re-running it to see what happens!
+
+---
+
+## 🎯 What To Do This Week
+
+- [x] Open the first optional lab  
+- [x] Scroll through the notebook  
+- [x] Run each cell using `Shift + Enter`  
+- [x] Read and explore the code  
+- [x] Try predicting what the code does  
+- [x] Edit and experiment if you like  
+- [x] Finish the rest of this week’s content
+
+---
+
