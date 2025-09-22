@@ -42,4 +42,6 @@ Welcome to your journey into machine learning! This guide will help you understa
 
 ## 📊 Lab Engagement Overview
 
+Optional Labs (Run Only) ██████████████████ 60%
 
+Practice Labs (Code Yourself) ███████████ 40%
