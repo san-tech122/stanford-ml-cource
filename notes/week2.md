@@ -118,3 +118,47 @@
 ## 📺 What’s Next?
 
 We'll explore **other types of unsupervised learning** beyond clustering in the next lesson.
+
+
+# 🧠 Unsupervised Learning Overview
+
+## What Is Unsupervised Learning?
+
+Unsupervised learning is a type of machine learning where the algorithm is given data **without labeled outputs**. Unlike supervised learning, which uses input-output pairs \((x, y)\), unsupervised learning uses only inputs \((x)\) and tries to discover patterns, structures, or insights from the data.
+
+---
+
+## 🔍 Types of Unsupervised Learning
+
+### 1. Clustering
+Groups similar data points together.  
+**Example**: Grouping news articles by topic.
+
+### 2. Anomaly Detection
+Identifies unusual or rare events.  
+**Example**: Detecting fraudulent transactions in financial systems.
+
+### 3. Dimensionality Reduction
+Compresses high-dimensional data into fewer dimensions while preserving key information.  
+**Example**: Reducing features for visualization or faster processing.
+
+---
+
+## ✅ Quiz: Supervised vs Unsupervised Learning
+
+Here are four examples. Two are unsupervised learning problems, and two are supervised learning problems:
+
+| Example                        | Type of Learning     | Explanation |
+|-------------------------------|----------------------|-------------|
+| Spam filtering                | Supervised           | Uses labeled data: spam vs non-spam. |
+| News story clustering         | Unsupervised         | Groups articles without labels. |
+| Market segmentation           | Unsupervised         | Finds customer groups from unlabeled data. |
+| Diagnosing diabetes           | Supervised           | Uses labeled outcomes: diabetes or not. |
+
+---
+
+## 💡 Coming Up Next
+
+In future lessons, you'll explore anomaly detection and dimensionality reduction in more depth. You'll also learn how to use **Jupyter Notebooks** to experiment with these algorithms interactively.
+
+
