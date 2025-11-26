@@ -162,3 +162,28 @@ Here are four examples. Two are unsupervised learning problems, and two are supe
 In future lessons, you'll explore anomaly detection and dimensionality reduction in more depth. You'll also learn how to use **Jupyter Notebooks** to experiment with these algorithms interactively.
 
 
+import numpy as np
+
+def compute_cost(x, y, w, b):
+    """
+    Computes the cost function for linear regression.
+    J(w, b) = (1/(2m)) * Σ (wx_i + b - y_i)^2
+    """
+    m = x.shape[0]
+    predictions = w * x + b
+    errors = predictions - y
+    cost = (1 / (2 * m)) * np.sum(errors ** 2)
+    return cost
+
+
+# Example usage
+if __name__ == "__main__":
+    # sample data
+    x = np.array([1.0, 2.0, 3.0])
+    y = np.array([2.0, 4.0, 6.0])
+
+    w = 1.0
+    b = 0.0
+
+    j = compute_cost(x, y, w, b)
+    print("Cost:", j)
