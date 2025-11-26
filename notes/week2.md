@@ -157,9 +157,6 @@ Here are four examples. Two are unsupervised learning problems, and two are supe
 
 ---
 
-## 💡 Coming Up Next
-
-In future lessons, you'll explore anomaly detection and dimensionality reduction in more depth. You'll also learn how to use **Jupyter Notebooks** to experiment with these algorithms interactively.
 
 
 import numpy as np
